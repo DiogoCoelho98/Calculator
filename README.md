@@ -16,7 +16,7 @@ The Calculator App is a simple web-based calculator that performs basic arithmet
 ## Getting Started
 ### Installation
 ```
-git clone https://github.com/YourUsername/Calculator_App.git
+git clone https://github.com/DiogoCoelho98/Calculator.git
 cd path/to/Calculator_App
 ```
 
